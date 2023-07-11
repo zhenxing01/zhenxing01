@@ -1,0 +1,6 @@
+1.表单项标签:
+            a.input的type属性:text、password、radio、checkbox、file、data、
+              datatime-local、time、number、hidden、button、submit、
+            b.<select>：定义下拉列表
+            c.<textarea>:定义文本域
+

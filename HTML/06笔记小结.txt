@@ -1,0 +1,20 @@
+1.CSS盒子模型:
+             组成:内容(content)、内边距(padding)、边框(border)、外边距(margin)
+2.CSS属性:
+             width：设置宽度
+             height：设置高度
+             border：设置边框的属性，如1px solid #000;
+             padding：内边距
+             margin:外边距
+    注意:如果只需要设置某一个方位的边框，内边距，外边距，可以在属性名后面加上-位置
+         如:padding-top padding-right padding-left...
+3.<div>和<span>：
+            a.布局标签:实际开发网页中，会大量使用div和span这两个没有语义的布局标签
+            b.div的特点:
+                       一行只显示一个独占一行
+                       宽度默认是父元素的宽度，默认由内容撑开，这里的父元素指的就是浏览器的宽度
+                       可以设置宽高(width、height)
+            c.span的特点:
+                       一行可以显示多个
+                       宽度和高度默认由内容撑开
+                       不可以设置宽高(width、height)

@@ -1,0 +1,10 @@
+1.CSS引入方式
+            a.行内样式:<h1 style="">
+            b.内嵌样式<style>...</style>
+            c.外联样式:xxx.css  <link href="...">
+2.颜色表示
+            a.关键字:red green blue...
+            b.rgb表示法:rgb(255,0,0) rgb(134,100,89)
+            c.十六进制:#ff0000 #cccccc #ccc
+3.颜色属性
+             color:设置文本内容的颜色

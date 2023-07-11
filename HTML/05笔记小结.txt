@@ -1,0 +1,19 @@
+1.音频、视频标签:
+               音频<audio> 视频<video>
+               注意:在使用<audio>和<video>的时候记得使用controls属性来控制播放暂停
+               <video src="./video/1.mp4" controls="controls"></video>
+               <audio src="./audio/1.mp3" controls></audio>
+               在一个标签的属性中当属性值和属性名字相同的时候可以只用写一个属性名称就可以了
+2.换行、段落标签:
+               换行<br> 段落<p>
+3.文本加粗标签:
+               <b>  <strong>
+4.CSS样式:
+               line-height：设置行高
+               text-ident：定义一个段落中第一行内容首行进行缩进
+               text-align：规定元素中的文本的水平对齐方式
+                         text-align="center"  居中
+                         text-align="right"   靠右
+                         text-align="left"    靠左
+5.注意:
+               在HTML中无论输入多少个空格，只会显示一个。可以使用空格占位符:&nbsp
